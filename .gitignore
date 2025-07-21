@@ -1,0 +1,16 @@
+.env
+dataset/*
+grpo/output_model/*
+temp*
+grpo/reward/reward_log
+grpo/__pycache__
+grpo/reward/__pycache__
+grpo/prompt_template/__pycache__
+eval_log/*
+eval_process/__pycache__
+# eval_process/api_key.py
+# grpo/reward/api_key.py
+cachemodels
+grpo/eval_log/*
+grpo/temp
+eval_process/eval_log
